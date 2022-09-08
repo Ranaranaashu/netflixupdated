@@ -1,0 +1,41 @@
+.abc{
+    background-color:rgb(17, 14, 14);
+}
+
+
+.header-logo{
+    height: 40px;
+
+}
+.mid-section{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mid-section-heading{
+    color: white;
+    
+}
+.mid-section-profile{
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    
+}
+.mid-section-profile-images{
+    height: 150px;
+    width: 150px;
+
+}
+.mid-section-username{
+    color: white;
+    text-align: center;
+}
+.mid-section-button-primary{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    border:1px solid white;
+}
